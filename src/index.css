@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.light {
+  background-color: #fff;
+  color: #000;
+  border: 1px solid #202124;
+}
+
+.dark {
+  background-color: #202124;
+  color: #fff;
+  border: 1px solid #fff;
+}
+
+.App {
+  height: 100vh;
+  width: 100%;
+  margin-bottom: 1vh;
+}
+
+.Componente {
+  margin-top: 5vh;
+  height: 30vh;
+}
