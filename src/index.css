@@ -26,3 +26,11 @@
   margin-top: 5vh;
   height: 30vh;
 }
+
+.lorem-light {
+  color: red;
+}
+
+.lorem-dark {
+  color: yellow;
+}
